@@ -1,0 +1,2 @@
+
+A Bank Customer Churn Model using Support Vector Machines (SVM) aims to predict if a customer will leave the bank (churn) based on factors like account balance, credit score, and transaction history. SVM is a classification algorithm that finds the optimal hyperplane separating customers likely to churn from those likely to stay. By maximizing the margin between classes, SVM creates a robust decision boundary.
